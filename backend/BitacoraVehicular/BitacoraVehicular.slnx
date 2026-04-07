@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ApiBitacoraVehicular/ApiBitacoraVehicular.csproj" />
+  <Project Path="AppBitacoraVehicular/AppBitacoraVehicular.csproj" />
+  <Project Path="DomainBitacoraVehicular/DomainBitacoraVehicular.csproj" />
+  <Project Path="InfraBitacoraVehicular/InfraBitacoraVehicular.csproj" />
+</Solution>
