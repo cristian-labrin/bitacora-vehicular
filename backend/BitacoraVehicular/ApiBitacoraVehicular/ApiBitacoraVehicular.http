@@ -1,6 +1,6 @@
 @ApiBitacoraVehicular_HostAddress = http://localhost:5290
 
-GET {{ApiBitacoraVehicular_HostAddress}}/weatherforecast/
+GET {{ApiBitacoraVehicular_HostAddress}}/Ping/
 Accept: application/json
 
 ###
